@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Movies Mania</string>
+    <string name="search">Search…</string>
+    <string name="searchLoader">Searching…</string>
+    <string name="not_found">
+        Nothing Found!! <br/>
+        Try searching for something else
+    </string>
+</resources>
